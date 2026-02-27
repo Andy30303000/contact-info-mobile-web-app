@@ -48,16 +48,17 @@ table th {
         text-transform: uppercase;
     }
 
-    /* table td:last-child {
+    table td:last-child {
         border-bottom: 0;
         border: 1px solid #000000;
-    } */
+    }
 
     tr:nth-child(even) {
         background-color: #dddddd;
     }
 
 }
+
 
 
 
