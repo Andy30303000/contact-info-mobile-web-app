@@ -37,7 +37,7 @@ table th {
     table td {
         display: block;
         text-align: right;
-        border-bottom: 0px;
+        border-bottom: 10px;
     }
 
     /* Behave like a table header */
@@ -58,6 +58,7 @@ table th {
     }
 
 }
+
 
 
 
